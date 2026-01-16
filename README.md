@@ -1,4 +1,4 @@
-# Scalable Systems Learning 🚀
+# Scalable Systems Learning
 
 This repository documents my learning journey around building **scalable, reliable systems**.
 
